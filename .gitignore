@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+*.mex*
+slprj/
+sccprj/
+codegen/
+*.slxc
+.DS_Store
+
+# Local exports
+exports/
+*.gif
+!docs/*.gif
